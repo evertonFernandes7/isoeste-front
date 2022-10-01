@@ -87,15 +87,13 @@ export const RemoveModal = styled.div`
     font-size: 1.1rem;
     font-weight: 700;
   }
-
-  i {
-    margin: 0 8px 0 -5px;
-  }
 `;
 
 export const TitleModal = styled.div`
-  display: flex;
-  align-items: center;
+  h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+  }
 `;
 
 export const RemoveModalButton = styled.div`
