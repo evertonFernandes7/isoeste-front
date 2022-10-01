@@ -236,7 +236,7 @@ export default function Tools() {
                 >
                   <C.RemoveModal>
                     <h2>
-                      <span>x</span> Remove Tool
+                      <span>x</span> remove tool
                     </h2>
 
                     <C.RemoveModalText>
